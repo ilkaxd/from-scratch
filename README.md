@@ -1,1 +1,2 @@
-Верстаем одностраничный кейс "Страх чистого листа" на основе готового [макета](https://www.figma.com/file/vYJfYCZUddsUQUCYUktcID/%231-С-чистого-листа/duplicate?type=design&node-id=0-1&mode=design)
+
+Верстаем одностраничный кейс "Страх чистого листа" на основе <a href="https://www.figma.com/file/vYJfYCZUddsUQUCYUktcID/%231-С-чистого-листа/duplicate?type=design&node-id=0-1&mode=design" target="_black">готового макета</a>
